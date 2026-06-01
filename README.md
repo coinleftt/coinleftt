@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**coinleftt/coinleftt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```ansi
+[36mcoinleft@github[0m ~ [34m$[0m whoami
+  Coinleft... an Indie Hacker
+  who loves to build open-source projects.
+  [90m// vibe coding since before the AI era.[0m
+```
+<br>
+```bash
+[36mcoinleft@github[0m ~ [34m$[0m cat links.txt
+```
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6384?style=for-the-badge&logo=GitHub-Sponsors&logoColor=fff)](https://codejapoe.xyz/)
+[![X](https://img.shields.io/badge/X-1A1B26?style=for-the-badge&logo=x&logoColor=white)](https://x.com/coinleftt)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/coinleft/)
