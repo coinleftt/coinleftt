@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="280" viewBox="0 0 820 280" fill="none" font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace" font-size="15">
+  <!-- panel 1: whoami -->
+  <rect x="10" y="14" width="800" height="150" rx="8" fill="#1f2335" stroke="#2f334d" stroke-width="1.5"/>
+  <text xml:space="preserve" y="52" font-weight="700">
+    <tspan x="36" fill="#7dcfff">coinleft@github</tspan><tspan fill="#a9b1d6"> ~ </tspan><tspan fill="#7aa2f7">$</tspan><tspan fill="#c0caf5"> whoami</tspan>
+  </text>
+  <text x="52" y="82" fill="#a9b1d6">Coinleft... an Indie Hacker</text>
+  <text x="52" y="110" fill="#a9b1d6">who loves to build open-source projects.</text>
+  <text x="52" y="138" fill="#565f89">// vibe coding since before the AI era.</text>
+
+  <!-- panel 2: cat links.txt -->
+  <rect x="10" y="190" width="800" height="66" rx="8" fill="#1f2335" stroke="#2f334d" stroke-width="1.5"/>
+  <text xml:space="preserve" y="230" font-weight="700">
+    <tspan x="36" fill="#7dcfff">coinleft@github</tspan><tspan fill="#a9b1d6"> ~ </tspan><tspan fill="#7aa2f7">$</tspan><tspan fill="#c0caf5"> cat links.txt</tspan>
+  </text>
+</svg>
