@@ -5,7 +5,7 @@
   [90m// vibe coding since before the AI era.[0m
 ```
 <br>
-```bash
+```ansi
 [36mcoinleft@github[0m ~ [34m$[0m cat links.txt
 ```
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6384?style=for-the-badge&logo=GitHub-Sponsors&logoColor=fff)](https://codejapoe.xyz/)
